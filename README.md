@@ -31,7 +31,7 @@
 - Simone (2002)
 - Twelve Monkeys (1995)
 - Stargate (1994)
-- Blade Runner (1082)
+- Blade Runner (1982)
 - A Clockwork Orange (1971)
 - The Planet of the Apes (1968)
 - The Day the Earth Stood Still (1951)
